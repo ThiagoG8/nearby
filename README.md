@@ -37,5 +37,5 @@
 
   ![Author Badge](https://img.shields.io/badge/Author-ThiagoG8-brightgreen?style=for-the-badge)
   ![Author Badge](https://img.shields.io/badge/Original%20author-Rocketseat-blueviolet?style=for-the-badge)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiag8)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thig8/)
 </div>
